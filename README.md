@@ -36,7 +36,6 @@ Story-Video-Generator is a powerful desktop application that automates video con
 ## Installation
 
 ### Prerequisites
-- 
 - FFmpeg
 - Ollama (optional, for AI features)
 
