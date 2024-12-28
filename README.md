@@ -9,7 +9,7 @@
 </div>
 
 ## Overview
-Story-Video-Generator is a powerful desktop application that automates video content creation. Whether you start with text or a voiceover, it generates high quality short form videos with synchronized subtitles and background music.
+Story Video Generator is a powerful desktop application that automates video content creation. Whether you start with text or a voiceover, it generates high quality short form videos with synchronized subtitles and background music.
 
 ## Key Features
 - 🎙️ **Text-to-Speech Conversion**
