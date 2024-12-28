@@ -1,0 +1,31 @@
+# Core Dependencies
+numpy>=1.24.3
+pygame>=2.5.2
+matplotlib>=3.7.2
+
+# Audio Processing
+pydub>=0.25.1          # Audio manipulation
+edge-tts>=6.1.9        # Text-to-speech
+webrtcvad>=2.0.10      # Voice activity detection
+sounddevice>=0.4.6     # Audio playback
+soundfile>=0.12.1      # Audio file handling
+
+# Video Processing
+moviepy>=1.0.3         # Video creation and editing
+opencv-python>=4.8.1.78  # Frame processing
+Pillow>=10.0.0         # Image handling
+
+# AI and Speech Recognition
+openai-whisper>=20231117  # Speech recognition
+ollama>=0.1.6            # AI text processing (optional)
+
+# Required System Packages (install separately)
+# FFmpeg - Audio/video processing
+# Python 3.8+ - Runtime environment
+# Ollama - AI features (optional)
+
+# Notes:
+# - tkinter is included with Python installation
+# - Some packages may require additional system-level dependencies
+# - Version numbers are minimum requirements
+# - Use pip install -r requirements.txt to install 
