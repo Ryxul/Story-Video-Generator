@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Story-Video-Generator</h1>
   
-  [![Python](https://img.shields.io/badge/Python-3.8+-brightgreen)](https://www.python.org/)
+  [![Python](https://img.shields.io/badge/Python-3.9.19-brightgreen)](https://www.python.org/)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -36,7 +36,6 @@ Story-Video-Generator is a powerful desktop application that automates video con
 ## Installation
 
 ### Prerequisites
-- Python 3.8 or higher
 - FFmpeg
 - Ollama (optional, for AI features)
 
@@ -46,11 +45,9 @@ Story-Video-Generator is a powerful desktop application that automates video con
 git clone https://github.com/Ryxul/Story-Video-Generator.git
 cd Story-Video-Generator
 
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-# or
-venv\Scripts\activate     # Windows
+# Create and activate virtual environment using Conda
+conda create -n Story-Video-Generator python=3.9.19
+conda activate Story-Video-Generator
 
 # Install dependencies
 pip install -r requirements.txt
@@ -127,7 +124,6 @@ Story-Video-Generator/
 ├── gui.py              # Main GUI implementation
 ├── audio_widgets.py    # Audio processing interface
 ├── backend_processing.py # Core functionality
-├── Background_Footage/  # Video clips folder
 └── requirements.txt    # Dependencies
 ```
 
