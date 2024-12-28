@@ -124,7 +124,6 @@ Story-Video-Generator/
 ├── gui.py              # Main GUI implementation
 ├── audio_widgets.py    # Audio processing interface
 ├── backend_processing.py # Core functionality
-├── Background_Footage/  # Video clips folder
 └── requirements.txt    # Dependencies
 ```
 
