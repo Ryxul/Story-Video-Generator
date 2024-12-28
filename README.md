@@ -120,11 +120,11 @@ ollama pull mistral
 ### Project Structure
 ```
 Story-Video-Generator/
-├── main.py              # Application entry point
-├── gui.py              # Main GUI implementation
-├── audio_widgets.py    # Audio processing interface
-├── backend_processing.py # Core functionality
-└── requirements.txt    # Dependencies
+├── main.py                 # Application entry point
+├── gui.py                  # Main GUI implementation
+├── audio_widgets.py        # Audio processing interface
+├── backend_processing.py   # Core functionality
+└── requirements.txt        # Dependencies
 ```
 
 ## Troubleshooting
