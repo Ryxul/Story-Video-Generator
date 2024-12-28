@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Story-Video-Generator</h1>
   
-  [![Python](https://img.shields.io/badge/Python-3.9.19+-brightgreen)](https://www.python.org/)
+  [![Python](https://img.shields.io/badge/Python-3.9.19-brightgreen)](https://www.python.org/)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
