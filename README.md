@@ -11,6 +11,21 @@
 ## Overview
 Story Video Generator is a powerful desktop application that automates video content creation. Whether you start with text or a voiceover, it generates high quality short form videos with synchronized subtitles and background music.
 
+## Demonstrations
+
+<div align="center">
+
+### 🎬 Full Tutorial & Installation Guide
+[![Tutorial & Installation](https://img.shields.io/badge/Watch-Tutorial%20%26%20Installation-red?style=for-the-badge&logo=youtube)](https://youtu.be/CgkaZjmocAg?si=IpKXzReX0MH2xlRe)
+
+### 📝 Generation from Story Text
+[![Story Generation](https://img.shields.io/badge/Watch-Story%20Generation-red?style=for-the-badge&logo=youtube)](https://youtu.be/c44DMJZBJQQ?si=2je8zj_Q4WXYAcbF)
+
+### 🎙️ Generation from Voiceover
+[![Voiceover Generation](https://img.shields.io/badge/Watch-Voiceover%20Generation-red?style=for-the-badge&logo=youtube)](https://youtu.be/SJvIBIVrOYk?si=YYH65S3tBNrC1740)
+
+</div>
+
 ## Key Features
 - 🎙️ **Text-to-Speech Conversion**
   - Natural-sounding voices using Edge TTS
